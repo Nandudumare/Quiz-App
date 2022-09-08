@@ -1,0 +1,15 @@
+.form__{
+  width: 50%;
+  margin: auto;
+  margin-top:2rem;
+  border: 1px solid rgb(255, 198, 41);
+  padding: 2rem;
+  border-radius:2rem;
+
+}
+
+.form__>form{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
