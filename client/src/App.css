@@ -2,10 +2,10 @@
   width: 50%;
   margin: auto;
   margin-top:2rem;
-  border: 1px solid rgb(255, 198, 41);
+  border: 2px solid rgb(255, 203, 60);
   padding: 2rem;
   border-radius:2rem;
-
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .form__>form{
