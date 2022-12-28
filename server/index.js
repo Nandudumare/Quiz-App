@@ -15,7 +15,7 @@ app.use(
 );
 
 app.get("/", (req, res) => {
-  res.send("hello problem");
+  return res.send("hello problem");
 });
 
 app.get("/problem", async (req, res) => {
